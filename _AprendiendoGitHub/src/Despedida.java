@@ -5,5 +5,6 @@ public class Despedida {
         System.out.print("Dime tu nombre: ");
         String nombre = scan.nextLine();
         System.out.println("Hasta luego " + nombre);
+        //Buenas
     }
 }
